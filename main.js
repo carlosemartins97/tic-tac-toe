@@ -18,5 +18,10 @@ for(var i = 0; i < quadrados.length; i++){
     });
 };
 
-
+resetButton.addEventListener("click", function(){
+    var jogada = 0;
+    for(var i = 0; i < quadrados.length; i++){
+        quadrados[i].style.backgroundColor = "steelblue";
+    }
+});
 
