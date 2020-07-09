@@ -22,3 +22,15 @@ h1 {
     max-width: 30%;
     margin: 2em auto;
 }
+
+#p1Display, #p2Display {
+    padding: 1em;
+}
+
+.winner {
+    color: green;
+}
+
+h2 {
+    text-align: center;
+}
