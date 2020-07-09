@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    background-color: steelblue;
+    color: #fff;
+    margin: 0;
+    padding: 2em;
+}
+
+.quadrados {
+    width: 30%;
+    background-color: steelblue;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+#container {
+    max-width: 30%;
+    margin: 2em auto;
+}
